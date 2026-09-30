@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1032 592" role="img" aria-labelledby="title">
+  <title id="title">Цветная эмблема FULL LOGISTICS</title>
+  <defs>
+    <linearGradient id="navy" x1="0" x2="1"><stop stop-color="#061f3e"/><stop offset="1" stop-color="#063f85"/></linearGradient>
+    <linearGradient id="blue" x1="0" x2="1"><stop stop-color="#087ee9"/><stop offset="1" stop-color="#066be2"/></linearGradient>
+  </defs>
+  <path fill="url(#navy)" d="M354 108c-13 0-23 8-28 22l-27 79h557l45-47-45-54H354Z"/>
+  <path fill="url(#blue)" d="m880 39 151 123-187 149 36-100 42-49-42-51V39Z"/>
+  <path fill="url(#navy)" d="M310 234h329l-39 106H415l-89 252H190l126-358h-6Z"/>
+  <path fill="url(#blue)" d="M665 234h142l-94 252h269l-23 67c-8 24-19 39-43 39H536l129-358Z"/>
+  <path fill="url(#navy)" d="m166 295 108 1-15 39H151l15-40Zm-37 67h108l-15 39H114l15-39Zm-41 69h108l-15 39H73l15-39Z"/>
+</svg>
