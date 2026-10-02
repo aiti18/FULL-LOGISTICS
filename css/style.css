@@ -96,7 +96,7 @@
 /* Display typography: Inter keeps large headings clean and modern, while
    Manrope remains the highly readable UI and body typeface. */
 .hero h1,.section-title,.cta h2,.contacts-info h2,.lead-form h3,.modal__dialog h2{font-family:"Inter","Manrope",Arial,sans-serif;font-weight:500}
-.hero h1 span{font-style:normal;font-weight:inherit}
+.hero h1 span{font:inherit;letter-spacing:inherit;text-transform:inherit;color:var(--primary)}
 .section-title .text-regular{font-weight:400}
 
 .header .logo{display:flex;align-items:center;gap:10px;min-width:205px}
